@@ -381,6 +381,11 @@ supply-chain-performance-analytics/
 │   ├── inventory.png
 │   └── sales.png
 │
+├── docs/
+│   ├── Project_Charter.pdf
+│   ├── Data_Profiling_Report.pdf
+│   └── Business_Requirement_Document.pdf
+│
 └── README.md
 ```
 
